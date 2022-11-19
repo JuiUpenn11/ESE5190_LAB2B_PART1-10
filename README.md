@@ -25,5 +25,5 @@ Parts 8 and 9 are very confusing and difficult to implement.
 
 What steps have you taken to resolve these difficulties? Any other barriers you have faced to completing this assignment? 
 
-I have been going through the implementation of parts 8 and 9 done by other students on GitHub.
+I have been going through the implementation of parts 8 and 9 done by other students on GitHub and other online resources and answers posted on Ed discussion to several common doubts that everyone is facing.
 
